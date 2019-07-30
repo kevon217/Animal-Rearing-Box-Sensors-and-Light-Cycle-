@@ -1,5 +1,5 @@
 # Animal-Rearing-Box-Sensors-and-Light-Cycle-
-Arduino-controlled monitoring of temperature/humidity for animal housing with light cycle regulation
+Arduino-controlled temperature/humidity monitoring for animal housing with light cycle regulation.
 
 Features:
 - DHT sensor
