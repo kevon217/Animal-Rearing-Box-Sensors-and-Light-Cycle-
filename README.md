@@ -1,4 +1,4 @@
-# Animal-Rearing-Box-Sensors-and-Light-Cycle-
+# Animal Rearing Box Sensors and Light-Cycle
 Arduino-controlled temperature/humidity monitoring for animal housing with light cycle regulation.
 
 Features:
